@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Sunglasses",
+      "price": 50,
+      "description": "Stylish sunglasses for summer.",
+      "category": "Accessories"
+    },
+    {
+      "id": 2,
+      "name": "Wristwatch",
+      "price": 120,
+      "description": "Elegant wristwatch with leather strap.",
+      "category": "Watches"
+    },
+    {
+      "id": 3,
+      "name": "Silver Bracelet",
+      "price": 35,
+      "description": "Beautiful silver bracelet for special occasions.",
+      "category": "Jewelry"
+    }
+  ]
+}
