@@ -1,25 +1,94 @@
 {
-  "products": [
+  "laptops": [
     {
-      "id": 1,
-      "name": "Sunglasses",
-      "price": 50,
-      "description": "Stylish sunglasses for summer.",
-      "category": "Accessories"
+      "productName": "Laptop Acer Aspire Lite AL14-51M-59BN (NX.KTXSV.001) (i5 1235U/16GB RAM/512GB SSD/14.0 inch FHD IPS/Win 11/Bạc/Vỏ kim loại) ",
+      "sku": "LTAC911",
+      "originPrice": "14.999.000₫",
+      "percentSale": 9,
+      "salePrice": "13.599.000₫",
+      "infos": [
+        "CPU: Intel Core i5",
+        "RAM: 16GB",
+        "SSD: 512 GB",
+        "Màn hình: 16 inch",
+        "VGA: VGA Tích Hợp (Onboard)"
+      ],
+      "imageUrl": "https://hanoicomputercdn.com/media/product/85639_laptop_acer_aspire_lite_al14.jpg"
     },
     {
-      "id": 2,
-      "name": "Wristwatch",
-      "price": 120,
-      "description": "Elegant wristwatch with leather strap.",
-      "category": "Watches"
+      "productName": "Laptop HP 14-ep1011TU (9Z2W3PA) (Core 5 120U/16GB RAM/512GB SSD/14 FHD/Win11/Bạc)",
+      "sku": "LAHP248",
+      "originPrice": "20.599.000₫",
+      "percentSale": 13,
+      "salePrice": "17.899.000₫",
+      "infos": [
+        "CPU: Ultra 5",
+        "RAM: 16GB",
+        "SSD: 512 GB",
+        "Màn hình: 14 inch",
+        "VGA: VGA Tích Hợp (Onboard)"
+      ],
+      "imageUrl": "https://hanoicomputercdn.com/media/product/250_84587_laptop_hp_14_ep1011tu_9z2w3pa_core_5_120u_16gb_ram_512gb_ssd_14_fhd_win11_bac__4_.jpg"
     },
     {
-      "id": 3,
-      "name": "Silver Bracelet",
-      "price": 35,
-      "description": "Beautiful silver bracelet for special occasions.",
-      "category": "Jewelry"
+      "productName": "Laptop Asus VivoBook X1504ZA-NJ582W (i3 1215U/8GB RAM/512GB SSD/15.6 FHD/Win11/Bạc)",
+      "sku": "LTDL580",
+      "originPrice": "12.999.000₫ ",
+      "percentSale": 28,
+      "salePrice": "9.399.000₫",
+      "infos": [
+        "CPU: Intel Core i3",
+        "RAM: 8GB",
+        "SSD: 512 GB",
+        "Màn hình: 15.6 inch",
+        "VGA: VGA Tích Hợp (Onboard)"
+      ],
+      "imageUrl": "https://hanoicomputercdn.com/media/product/250_76877_laptop_asus_vivobook_x1504za_nj582w__6_.jpg"
+    },
+    {
+      "productName": "Laptop LG Gram Pro 16Z90SP-K.AH75A5 (Ultra 7-155H /16GB RAM/512GB SSD/16.0 inch OLED/Win 11 Home Adv/Đen) (2024)",
+      "sku": "LTLG056",
+      "originPrice": "51.499.000₫",
+      "percentSale": 11,
+      "salePrice": "45.999.000₫",
+      "infos": [
+        "CPU: Ultra 7",
+        "RAM: 16GB",
+        "SSD: 512 GB",
+        "Màn hình: 16 inch",
+        "VGA: VGA Tích Hợp (Onboard)"
+      ],
+      "imageUrl": "https://hanoicomputercdn.com/media/product/250_83374_laptop_lg_gram_pro_16z90sp_k_ah75a5_ultra_7_155h_16gb_ram_512gb_ssd_16__1_.jpg"
+    },
+    {
+      "productName": "Laptop Lenovo Ideapad 1 14ALC7 (82R30099VN) (R5 5625U/16GB RAM/512GB SSD/14 FHD/Win11/Xám)",
+      "sku": "LTLV136",
+      "originPrice": "12.799.000₫",
+      "percentSale": 14,
+      "salePrice": "10.999.000₫",
+      "infos": [
+        "CPU: Ryzen 5 5625U",
+        "RAM: 16GB",
+        "SSD: 512 GB",
+        "Màn hình: 14 inch",
+        "VGA: AMD Radeon™ Graphics"
+      ],
+      "imageUrl": "https://hanoicomputercdn.com/media/product/250_87272_laptop_lenovo_ideapad_1_14alc7_82r30099vn_r5_5625u_16gb_ram_512gb_ssd_14_fhd_win11_xam.jpg"
+    },
+    {
+      "productName": "Laptop HP ProBook 440 G11 (A74BMPT) (Ultra 7 155H/16GB RAM/512GB SSD/14 FHD/Win11 Pro/Bạc)",
+      "sku": "LAHP271",
+      "originPrice": "32.799.000₫",
+      "percentSale": 2,
+      "salePrice": "31.999.000₫",
+      "infos": [
+        "CPU: Ultra 7",
+        "RAM: 16GB",
+        "SSD: 512 GB",
+        "Màn hình: 14 inch",
+        "VGA: VGA Tích Hợp (Onboard)"
+      ],
+      "imageUrl": "https://hanoicomputercdn.com/media/product/250_86120_2laptop_hp_probook_440_g11_a74bmpt_ultra_7_155u_16gb_ram_512gb_ssd_14_fhd_win11_pro_bac__1_.jpg"
     }
   ]
 }
